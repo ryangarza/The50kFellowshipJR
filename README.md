@@ -4,7 +4,7 @@
 
 #### - Have variables named in columns 
 #### - Describes variables, intuition-wise, what we expect to get out of the dataset
-#### - *********SPLIT DATA INTO TRAINING AND TESTING**************
+#### - *********SPLIT DATA INTO TRAINING AND TESTING************** BEFORE MESSING WITH THE DATA AT ALL!!
 #### - Begin initial data analysis and cleaning
 
 ## Background 
