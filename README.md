@@ -24,3 +24,12 @@
 - Joshua Ott
 
 ## Citations 
+
+https://archive.ics.uci.edu/ml/datasets/Adult
+
+@misc{Dua:2019 ,
+author = "Dua, Dheeru and Graff, Casey",
+year = "2017",
+title = "{UCI} Machine Learning Repository",
+url = "http://archive.ics.uci.edu/ml",
+institution = "University of California, Irvine, School of Information and Computer Sciences" }
