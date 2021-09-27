@@ -1,8 +1,14 @@
 # The50kFellowshipJR (Ryan and Josh) 
 
+# TO-DO BOARD 
+
+### - Have variables named in columns 
+### - Describes variables, intuition-wise, what we expect to get out of the dataset
+### - *********SPLIT DATA INTO TRAINING AND TESTING**************
+### - Begin initial data analysis and cleaning
+
 ## Background 
 explain background of dataset and the problem at hand 
-
 
 ## Table of Contents 
 
