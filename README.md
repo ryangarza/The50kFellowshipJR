@@ -11,3 +11,16 @@
 - [Discussion](#Discussion)
 - [Authors](#Authors)
 - [Citations](#Citations)
+
+## Methodology & Approach 
+
+## Analysis 
+
+## Discussion
+
+## Authors
+
+- Ryan Garza
+- Joshua Ott
+
+## Citations 
