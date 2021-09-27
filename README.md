@@ -1,6 +1,7 @@
 # The50kFellowshipJR (Ryan and Josh) 
 
 ## Background 
+explain background of dataset and the problem at hand 
 
 
 ## Table of Contents 
